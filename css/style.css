@@ -1,4 +1,6 @@
 @import "./global/global.css";
+@import "./Utilidades/tipografia.css";
+@import "./Utilidades/cores.css";
 @import "./global/header.css";
 
 /* Utilidades */
